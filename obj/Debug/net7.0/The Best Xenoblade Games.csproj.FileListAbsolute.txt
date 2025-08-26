@@ -1,0 +1,30 @@
+C:\Users\User1\Documents\The Best Xenoblade Games\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User1\Documents\The Best Xenoblade Games\bin\Debug\net7.0\appsettings.json
+C:\Users\User1\Documents\The Best Xenoblade Games\bin\Debug\net7.0\The Best Xenoblade Games.staticwebassets.runtime.json
+C:\Users\User1\Documents\The Best Xenoblade Games\bin\Debug\net7.0\The Best Xenoblade Games.exe
+C:\Users\User1\Documents\The Best Xenoblade Games\bin\Debug\net7.0\The Best Xenoblade Games.deps.json
+C:\Users\User1\Documents\The Best Xenoblade Games\bin\Debug\net7.0\The Best Xenoblade Games.runtimeconfig.json
+C:\Users\User1\Documents\The Best Xenoblade Games\bin\Debug\net7.0\The Best Xenoblade Games.dll
+C:\Users\User1\Documents\The Best Xenoblade Games\bin\Debug\net7.0\The Best Xenoblade Games.pdb
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\The Best Xenoblade Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\The Best Xenoblade Games.AssemblyInfoInputs.cache
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\The Best Xenoblade Games.AssemblyInfo.cs
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\The Best Xenoblade Games.csproj.CoreCompileInputs.cache
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\The Best Xenoblade Games.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\The Best Xenoblade Games.RazorAssemblyInfo.cache
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\The Best Xenoblade Games.RazorAssemblyInfo.cs
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\staticwebassets\msbuild.The Best Xenoblade Games.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\staticwebassets\msbuild.build.The Best Xenoblade Games.props
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.The Best Xenoblade Games.props
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.The Best Xenoblade Games.props
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\scopedcss\bundle\The Best Xenoblade Games.styles.css
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\scopedcss\projectbundle\The Best Xenoblade Games.bundle.scp.css
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\The Best Xenoblade Games.dll
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\refint\The Best Xenoblade Games.dll
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\The Best Xenoblade Games.pdb
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\The Best Xenoblade Games.genruntimeconfig.cache
+C:\Users\User1\Documents\The Best Xenoblade Games\obj\Debug\net7.0\ref\The Best Xenoblade Games.dll

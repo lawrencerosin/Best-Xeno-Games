@@ -1,0 +1,11 @@
+th:first-child{
+    
+   font-size:20px;
+   font-weight:bold;
+}
+input{
+  margin-bottom:10px;
+}
+table, th, tr, td{
+   border:2px solid blue;
+}
