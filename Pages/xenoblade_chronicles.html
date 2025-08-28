@@ -2,6 +2,8 @@
 <html>
   <head>
     <title>Xenoblade Chronicles</title>
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+     <link rel="stylesheet" href="../CSS/tables.css">
    <link rel="stylesheet" href="../CSS/general.css">
    <style>
      #antagonists{
@@ -18,9 +20,20 @@
        color:blue;
        text-align:center;
      }
+     #submit{
+       background-color:pink;
+       border-color:pink;
+       color:white;
+     }
    </style>
   <head>  
   <body>
+    <nav>
+       <a href="index.html">Home</a>
+       <a href="xenoblade_chronicles.html">Xenoblade Chronicles</a>
+       <a href="xenoblade_chronicles_x.html">Xenoblade Chronicles X</a>
+    </nav>
+
     <h1 id="about-title">About the Game</h1>
     <section>
         There are the gods of the Bionis and Mechonis.
@@ -28,28 +41,37 @@
          Join Shulk and his friends as they help
         stop the Mechonis.
     </section>
-    <ul id="antagonists">
-       <h5 style="padding-right:10px;">Main Antagonists</h5>
-       <li>Egil</li>
-       <li>Zanza</li>
-    </ul>
+    <table id="bosses">
+      <tr><th colspan="2" >Main Bosses</th></tr>
+      <tr><th>Boss</th><th>Special Abilities</th></tr>
+      <tr><td>Egil/Yaldabaoth</td><td>Invincibility/Infinite Damage</td></tr>
+      <tr><td>Zanza</td><td>Inflicts Inability to See the Future</td></tr>
+    </table>
+   
     <form>
-        <h3>Rank Antagonist</h3>
+        <h3 style="color:blue">Rank Antagonist</h3>
         Antagonist:<select>
            <option>Mumkar</option>
            <option>Egil</option>
            <option>Zanza</option>
         </select>
-        <br>
+        
         Rank:<select>
            <option>1</option>    
-           <option>2</option<
-           </option>3</option>
+           <option>2</option>
+           <option>3</option>
         </select>
-        <br>
+        
         <input type="text" placeholder="Reason For Rank"><br>
-        <button>Submit</button>
+        <button id="submit">Submit</button>
     </form>
   </body>
+  <footer>
+   <ul id="stores">
+     <li>Best Buy</li>
+     <li>Game Stop</li>
+     <li>Wii Store</li>
+   </ul>
+  </footer>
 </html>
    

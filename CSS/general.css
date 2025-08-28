@@ -1,6 +1,9 @@
 *{
 margin:auto;
 }
+ul{
+  list-style-type:none;
+}
 body{
   background-color:lightgray;
 }
@@ -26,7 +29,7 @@ nav>a:hover{
 }
 
 td{
-text-align:center;
+  text-align:center;
 }
 section{
    background-color:white;
@@ -36,4 +39,32 @@ section{
 form{
   background-color:cyan;
    width:500px;
+  display:flex;
+  flex-direction:column;
+  justify-content: space-around;
+  margin-top:10px;
+  padding-left:10px;
+  padding-right:10px;
+}
+button{
+  width:200px;
+  margin-left:auto;
+  margin-right:auto;
+}
+button:hover{
+  background-color: whitesmoke;
+  
+}
+#stores{
+  background-color:white;
+  margin-top:10px;
+   width:100%;
+  height:30%;
+  border:5px solid darkgray;
+}
+#bosses{
+  margin-top:10px;
+}
+#stores>li{
+  border:1px solid silver;
 }
