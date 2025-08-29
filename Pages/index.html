@@ -1,0 +1,100 @@
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>The Best Xenoblade Chronicles Games</title>
+    <link rel="stylesheet" href="../CSS/tables.css">
+    <link rel="stylesheet" href="../CSS/general.css">
+    <style>
+      .dvd{
+         width:70px;
+         height:50px;
+         transition-property: width, height:
+         transition-duration:5s;
+      }
+      .dvd:hover{
+         width:500px;
+         height:200px;
+      }
+      #choose{
+        font-size:14px;
+        color:blue;
+        
+      }
+      @media only screen and (min-width:1101px){
+        .giff{
+           display:block;
+            margin:10px auto;
+           width:400px;
+          height:200px;
+       
+        }
+   
+      }
+
+      @media only screen and (min-width:601px and max-width:1000px){
+        .giff{
+           display:block;
+           margin:10px auto;
+           width:400px;
+          height:200px;
+        }
+   
+      }
+        @media only screen and(max-width:300px){
+          .giff{
+           display:block;
+           margin:10px auto;
+           width:250px;
+          height:200px;
+	      
+
+         }
+
+      }
+      .giff:hover{
+        width:100%;
+        height:50%;
+        position:fixed;
+     }
+     #giffs{
+      display:flex;
+      justify-content:space-between;
+     }
+    </style>
+</head>
+<body>
+  <nav>
+     <a href="index.html">Home</a>
+     <a href="xenoblade_chronicles.html">Xenoblade Chronicles</a>
+     <a href="xenoblade_chronicles_x.html">Xenoblade Chronicles X</a>
+  </nav>
+  <div id="giffs">
+    <img src="../images/shulk.gif" alt="Giff From Xenoblade Chronicles"  class="giff">
+    <img src="../images/lin.gif" alt="Lin From Xenoblade Chronicles X"  class="giff">
+  </div>
+  <div id="main">
+    <table>
+        <tr><th colspan="5">Game Comparison</th></tr>
+        <tr><th>Name</th><th>DVD Box</th><th>Location(s) Game Takes Place</th><th>Price</th><th>Release Year</th></tr>
+        <tr><td>Xenoblade Chronicles</td><td><img src="../images/xenoblade chronicles.webp" alt="Xenoblade Chronicles DVD Box" class="dvd"></td><td>Bionis/Mechonis</td><td>$45.00</td><td>2012</td></tr>
+        <tr><td>Xenoblade Chronicles X</td><td><img src="../images/xenoblade chronicles x.jpg" alt="Xenoblade Chronicles X DVD Box" class="dvd"></td><td>Mira</td><td>$60.00</td><td>2015</td></tr>
+    </table>
+    <form style="margin-top:10px">
+       <h1>Purchase a Game</h1>
+       <input type="text" placeholder="Name" required><br>
+       <input type="email" placeholder="E-mail Address" required><br>
+       <span>
+       <span id="choose">Choose Game:</span>
+         <select id="game-selection">
+          <option>Xenoblade Chronicles</option>
+          <option>Xenoblade Chronicles X</option>
+        </select>
+         <input type="checkbox">Definitive Edition
+       </span>
+       <button style="background-color:purple; color:white; padding:7px 5px;">Purchase Game</button>
+       
+          
+    </form>
+  </div>
+ </body>
+</html>
